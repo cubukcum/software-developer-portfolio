@@ -1,0 +1,767 @@
+{
+  "closed": 4,
+  "data": [
+    {
+      "id": "PR_kwDOJ8XrLc5XK05o",
+      "title": "Bireysel deneyimler backend implementation",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-04T07:20:29Z",
+      "number": 70,
+      "changedFiles": 3,
+      "additions": 6,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5XKu0n",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/69",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-04T06:56:51Z",
+      "number": 69,
+      "changedFiles": 19,
+      "additions": 342,
+      "deletions": 128,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5XKlI7",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/68",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-08-04T06:13:59Z",
+      "number": 68,
+      "changedFiles": 18,
+      "additions": 331,
+      "deletions": 177,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5XHZZr",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-03T14:19:07Z",
+      "number": 66,
+      "changedFiles": 10,
+      "additions": 257,
+      "deletions": 373,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8YB485XB_bj",
+      "title": "merge main into yeni",
+      "url": "https://github.com/aykanatcanberk/backend/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-02T16:55:07Z",
+      "number": 19,
+      "changedFiles": 19,
+      "additions": 116,
+      "deletions": 3284,
+      "baseRepository": {
+        "name": "backend",
+        "url": "https://github.com/aykanatcanberk/backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8YB485W63ae",
+      "title": "main into post",
+      "url": "https://github.com/aykanatcanberk/backend/pull/12",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-08-01T14:56:38Z",
+      "number": 12,
+      "changedFiles": 50,
+      "additions": 918,
+      "deletions": 3788,
+      "baseRepository": {
+        "name": "backend",
+        "url": "https://github.com/aykanatcanberk/backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5W6A6t",
+      "title": "tüm sorunlar çözüldü",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/59",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-01T12:50:20Z",
+      "number": 59,
+      "changedFiles": 4,
+      "additions": 87,
+      "deletions": 101,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5W4Gi6",
+      "title": "Yeni bireysel ilanlar",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/57",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-08-01T07:31:50Z",
+      "number": 57,
+      "changedFiles": 5,
+      "additions": 221,
+      "deletions": 50,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WxSGv",
+      "title": "Yeni bireysel ilanlar",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/56",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-31T08:10:18Z",
+      "number": 56,
+      "changedFiles": 5,
+      "additions": 476,
+      "deletions": 184,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8YB485WvOIT",
+      "title": "test",
+      "url": "https://github.com/aykanatcanberk/backend/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-30T18:43:59Z",
+      "number": 8,
+      "changedFiles": 37,
+      "additions": 1693,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "backend",
+        "url": "https://github.com/aykanatcanberk/backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WvIyw",
+      "title": "Bireysel deneyimler",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/54",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-30T17:08:06Z",
+      "number": 54,
+      "changedFiles": 8,
+      "additions": 882,
+      "deletions": 195,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wu3wf",
+      "title": "Bireysel deneyimler",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/53",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-30T12:30:44Z",
+      "number": 53,
+      "changedFiles": 10,
+      "additions": 1171,
+      "deletions": 45,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wu3mM",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/52",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-30T12:27:56Z",
+      "number": 52,
+      "changedFiles": 10,
+      "additions": 95,
+      "deletions": 34,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WpwmY",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/49",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-28T12:58:07Z",
+      "number": 49,
+      "changedFiles": 42,
+      "additions": 1540,
+      "deletions": 276,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wpv1i",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/48",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-07-28T12:55:38Z",
+      "number": 48,
+      "changedFiles": 42,
+      "additions": 1540,
+      "deletions": 281,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wi5QH",
+      "title": "added CSS to NotFoundError page",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/38",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T13:18:17Z",
+      "number": 38,
+      "changedFiles": 3,
+      "additions": 29,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WizWY",
+      "title": "Router test",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T13:03:02Z",
+      "number": 37,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WiCDX",
+      "title": "test <---- dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/35",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T10:40:42Z",
+      "number": 35,
+      "changedFiles": 101,
+      "additions": 5816,
+      "deletions": 109,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WiBWP",
+      "title": "Merge pull request #33 from aykanatcanberk/bireysel-deneyimler",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/34",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-07-27T10:38:37Z",
+      "number": 34,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wh_OB",
+      "title": "Bireysel deneyimler",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T10:32:21Z",
+      "number": 33,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wh8Yw",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/32",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T10:24:51Z",
+      "number": 32,
+      "changedFiles": 10,
+      "additions": 282,
+      "deletions": 121,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wh2Ba",
+      "title": "Revert \"Revert 25 hasan service+sondokunuşlar\"",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/29",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T10:07:10Z",
+      "number": 29,
+      "changedFiles": 101,
+      "additions": 5816,
+      "deletions": 109,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wg7EA",
+      "title": "Added mui/lab",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T07:23:35Z",
+      "number": 24,
+      "changedFiles": 2,
+      "additions": 57,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wg1Y9",
+      "title": "Merge pull request #22 from aykanatcanberk/dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T07:04:44Z",
+      "number": 23,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wg0d8",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T07:01:22Z",
+      "number": 22,
+      "changedFiles": 78,
+      "additions": 3705,
+      "deletions": 226,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WgzZ1",
+      "title": "Merge pull request #20 from aykanatcanberk/dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T06:57:34Z",
+      "number": 21,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5Wgww_",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-27T06:47:37Z",
+      "number": 20,
+      "changedFiles": 71,
+      "additions": 3123,
+      "deletions": 227,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WJRL5",
+      "title": "Onay istegi",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-22T09:52:59Z",
+      "number": 4,
+      "changedFiles": 3,
+      "additions": 104,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5WJKR_",
+      "title": "layouts + routes created",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-22T07:39:07Z",
+      "number": 3,
+      "changedFiles": 6,
+      "additions": 137,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5V5xJS",
+      "title": "Test",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-19T14:57:29Z",
+      "number": 2,
+      "changedFiles": 34,
+      "additions": 208,
+      "deletions": 154,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ8XrLc5V5wUX",
+      "title": "Dev",
+      "url": "https://github.com/aykanatcanberk/frontend/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2023-07-19T14:55:26Z",
+      "number": 1,
+      "changedFiles": 34,
+      "additions": 208,
+      "deletions": 154,
+      "baseRepository": {
+        "name": "frontend",
+        "url": "https://github.com/aykanatcanberk/frontend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "login": "aykanatcanberk",
+          "url": "https://github.com/aykanatcanberk"
+        }
+      }
+    }
+  ],
+  "merged": 27,
+  "open": 0,
+  "totalCount": 31
+}

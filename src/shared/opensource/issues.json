@@ -1,0 +1,27 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "I_kwDOLfbcnc6Dk1b5",
+      "closed": false,
+      "title": "Object Detector Not Working",
+      "createdAt": "2024-03-26T07:40:54Z",
+      "url": "https://github.com/ultralytics/yolo-flutter-app/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "yolo-flutter-app",
+        "url": "https://github.com/ultralytics/yolo-flutter-app",
+        "owner": {
+          "login": "ultralytics",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26833451?v=4",
+          "url": "https://github.com/ultralytics"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 1
+}
