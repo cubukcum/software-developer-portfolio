@@ -1,6 +1,27 @@
 {
-  "closed": 4,
+  "closed": 5,
   "data": [
+    {
+      "id": "PR_kwDODqGIis5t0MsF",
+      "title": "fixed a typo in the education page",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/358",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-04-26T08:44:25Z",
+      "number": 358,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
     {
       "id": "PR_kwDOJ8XrLc5XK05o",
       "title": "Bireysel deneyimler backend implementation",
@@ -763,5 +784,5 @@
   ],
   "merged": 27,
   "open": 0,
-  "totalCount": 31
+  "totalCount": 32
 }
