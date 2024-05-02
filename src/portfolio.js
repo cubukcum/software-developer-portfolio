@@ -24,8 +24,7 @@ const greeting = {
   nickname: "Computer Engineer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+  resumeLink: "https://rxresu.me/zzz377/mehmet-sait-cubukcu-resume",
   portfolio_repository:
     "https://github.com/cubukcum/software-developer-portfolio",
   githubProfile: "https://github.com/cubukcum",
