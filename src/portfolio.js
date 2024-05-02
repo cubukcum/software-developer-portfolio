@@ -309,7 +309,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#F79F1B",
     //   },
-    //   profileLink: "https://leetcode.com/layman_brother/",
+    //   profileLink: "https://leetcode.com/u/zzzsaid/",
     // },
     // {
     //   siteName: "HackerRank",
@@ -493,7 +493,7 @@ const contactPageData = {
     postalCode: "42130",
     streetAddress: "Yazir mah",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/MEaPm6FErPNJJaTt9",
   },
   phoneSection: {
     title: "",
