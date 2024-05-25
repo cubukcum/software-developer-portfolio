@@ -392,7 +392,7 @@ const experience = {
           duration: "Jul 2023 - Aug 2023",
           location: "ODTU Teknokent",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "Introduced to a diverse range of technologies including Spring Boot, React, data science, AI, SQL, and Flutter. Utilized Git/GitHub extensively for version control, including merges, pulls, pushes, and branch management. Engaged in agile and scrum methodologies, contributing to an efficient and iterative development process.",
           color: "#000000",
         },
         {
@@ -403,7 +403,7 @@ const experience = {
           duration: "Jul 2022 - Aug 2022",
           location: "Konya Teknokent",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Utilized technologies such as React, Socket.io, Node.js, and MySQL. Gained hands-on experience in both front-end and back-end development.",
           color: "#ee3c26",
         },
       ],
