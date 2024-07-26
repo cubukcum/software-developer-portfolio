@@ -379,7 +379,19 @@ const experience = {
     {
       title: "Work",
       work: false,
-      experiences: [],
+      experiences: [
+        {
+          title: "Possibly a Software Engineer",
+          company: "Dont know yet",
+          company_url: "https://www..com",
+          logo_path: "deeplearning_ai_logo.png",
+          duration: "Aug 2024 - ",
+          location: "",
+          description:
+            "I am actively seeking job opportunities in the field of machine learning. I am also open to working in startups where I can take on various roles and continually improve my skills. I am eager to contribute to innovative projects and grow within a dynamic environment.",
+          color: "#000000",
+        },
+      ],
     },
     {
       title: "Internships",
