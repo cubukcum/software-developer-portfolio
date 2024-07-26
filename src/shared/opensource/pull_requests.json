@@ -1,6 +1,177 @@
 {
-  "closed": 5,
+  "closed": 6,
   "data": [
+    {
+      "id": "PR_kwDOLaMS6c5vT1Qx",
+      "title": "Mobil functions",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-05-13T20:10:07Z",
+      "number": 13,
+      "changedFiles": 131,
+      "additions": 2805,
+      "deletions": 557,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vLaUG",
+      "title": "Merge",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-05-12T11:19:01Z",
+      "number": 12,
+      "changedFiles": 18,
+      "additions": 548,
+      "deletions": 98,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vLZo3",
+      "title": "update ",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-05-12T11:09:01Z",
+      "number": 11,
+      "changedFiles": 18,
+      "additions": 484,
+      "deletions": 97,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vLZhP",
+      "title": "Opencv",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-05-12T11:07:18Z",
+      "number": 10,
+      "changedFiles": 18,
+      "additions": 484,
+      "deletions": 97,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vLZPw",
+      "title": "update mobil functions",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-05-12T11:03:06Z",
+      "number": 9,
+      "changedFiles": 43,
+      "additions": 1496,
+      "deletions": 293,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vLYwd",
+      "title": "Merge",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/8",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-05-12T10:55:55Z",
+      "number": 8,
+      "changedFiles": 43,
+      "additions": 1496,
+      "deletions": 293,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOLaMS6c5vJ62Y",
+      "title": "Opencv",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73299680?v=4",
+        "url": "https://github.com/yusufKemalPinarci",
+        "login": "yusufKemalPinarci"
+      },
+      "createdAt": "2024-05-11T09:05:15Z",
+      "number": 6,
+      "changedFiles": 29,
+      "additions": 558,
+      "deletions": 240,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
     {
       "id": "PR_kwDODqGIis5t0MsF",
       "title": "fixed a typo in the education page",
@@ -23,6 +194,31 @@
       }
     },
     {
+      "id": "PR_kwDOLaMS6c5s6EJy",
+      "title": "Cleanup and Update",
+      "url": "https://github.com/cubukcum/drive-buddy/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+        "url": "https://github.com/cubukcum",
+        "login": "cubukcum"
+      },
+      "createdAt": "2024-04-17T10:53:04Z",
+      "number": 4,
+      "changedFiles": 119,
+      "additions": 95,
+      "deletions": 4207,
+      "baseRepository": {
+        "name": "drive-buddy",
+        "url": "https://github.com/cubukcum/drive-buddy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/109916532?v=4",
+          "login": "cubukcum",
+          "url": "https://github.com/cubukcum"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOJ8XrLc5XK05o",
       "title": "Bireysel deneyimler backend implementation",
       "url": "https://github.com/aykanatcanberk/frontend/pull/70",
@@ -41,7 +237,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -66,7 +262,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -87,7 +283,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -112,7 +308,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -137,7 +333,7 @@
         "name": "backend",
         "url": "https://github.com/aykanatcanberk/backend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -158,7 +354,7 @@
         "name": "backend",
         "url": "https://github.com/aykanatcanberk/backend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -183,7 +379,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -208,7 +404,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -233,7 +429,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -258,7 +454,7 @@
         "name": "backend",
         "url": "https://github.com/aykanatcanberk/backend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -283,7 +479,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -308,7 +504,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -333,7 +529,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -358,7 +554,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -379,7 +575,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -404,7 +600,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -429,7 +625,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -454,7 +650,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -475,7 +671,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -500,7 +696,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -525,7 +721,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -550,7 +746,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -575,7 +771,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -600,7 +796,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -625,7 +821,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -650,7 +846,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -675,7 +871,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -700,7 +896,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -725,7 +921,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -750,7 +946,7 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
@@ -775,14 +971,14 @@
         "name": "frontend",
         "url": "https://github.com/aykanatcanberk/frontend",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/101566413?u=5256f85454b33de6b4d4ba254cde222eccdb4c4c&v=4",
           "login": "aykanatcanberk",
           "url": "https://github.com/aykanatcanberk"
         }
       }
     }
   ],
-  "merged": 27,
+  "merged": 34,
   "open": 0,
-  "totalCount": 32
+  "totalCount": 40
 }
